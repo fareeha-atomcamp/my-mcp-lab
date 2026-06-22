@@ -1,0 +1,1 @@
+The API requires a Bearer token. The CSS is located in /styles/main.css.
